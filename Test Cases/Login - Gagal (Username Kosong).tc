@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Gagal (Username Kosong)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2034cd4e-ca36-476f-98fd-33e63e3b1349</testCaseGuid>
+</TestCaseEntity>
