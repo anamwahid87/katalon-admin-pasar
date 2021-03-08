@@ -4,4 +4,29 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://admin.pasar.id/login'</initValue>
+      <name>url_prod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admindummyqa3'</initValue>
+      <name>username_valid_dummy3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5ok@!L1D'</initValue>
+      <name>password_valid_dummy3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'pasarpasarpasar'</initValue>
+      <name>username_invalid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'pasarpasarpasar'</initValue>
+      <name>password_invalid</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
